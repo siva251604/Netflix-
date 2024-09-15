@@ -1,0 +1,21 @@
+body{
+    background-image: url("img2/neww.jpg");
+    width: 100vw;
+    height: 100vh;
+}
+
+#box{
+    background-color: black;
+    height: 700px;
+    width: 600px;
+    opacity: 0.8;
+}
+#voo{
+    position: relative;
+    left: 170px;
+}
+#coo{
+    position: relative;
+    left: 130px;
+    
+}
